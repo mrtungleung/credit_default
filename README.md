@@ -27,9 +27,12 @@
 ![image](https://github.com/mrtungleung/credit_default/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-10%20%E4%B8%8A%E5%8D%8811.17.37.png)
 ![image](https://github.com/mrtungleung/credit_default/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-10%20%E4%B8%8A%E5%8D%8811.17.44.png)
 ![image](https://github.com/mrtungleung/credit_default/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-10%20%E4%B8%8A%E5%8D%8811.17.52.png)
-![image](https://github.com/mrtungleung/credit_default/blob/master/images/3.png)
+![image](https://github.com/mrtungleung/credit_default/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-10%20%E4%B8%8A%E5%8D%8811.32.54.png)
 
 从结果中，我们能看到 SVM 分类器的准确率最高，测试准确率为 0.8172。
+
 在决策树分类中，我设置了 3 种最大深度，当最大深度 =6 时结果最优，测试准确率为0.8113；
+
 在随机森林分类中，我设置了 3 个决策树个数的取值，取值为 6 时结果最优，测试准确率为 0.7994；
+
 在 KNN 分类中，我设置了 3 个 n 的取值，取值为 8 时结果最优，测试准确率为 0.8036。
